@@ -1,0 +1,7 @@
+Index		Symbol		Address
+0			A			202
+1			LOOP		203
+2			B			204
+3			NEXT		206
+4			BACK		209
+5			LAST		210
